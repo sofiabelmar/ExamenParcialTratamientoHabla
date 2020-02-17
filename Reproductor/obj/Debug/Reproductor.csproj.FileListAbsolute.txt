@@ -1,0 +1,19 @@
+C:\Users\sofia\Downloads\ExamenTratamientoHabla-Starter-master\Reproductor\bin\Debug\LA BRISSA las chiquitas.mp3
+C:\Users\sofia\Downloads\ExamenTratamientoHabla-Starter-master\Reproductor\bin\Debug\Reproductor.exe.config
+C:\Users\sofia\Downloads\ExamenTratamientoHabla-Starter-master\Reproductor\bin\Debug\Reproductor.exe
+C:\Users\sofia\Downloads\ExamenTratamientoHabla-Starter-master\Reproductor\bin\Debug\Reproductor.pdb
+C:\Users\sofia\Downloads\ExamenTratamientoHabla-Starter-master\Reproductor\bin\Debug\NAudio.dll
+C:\Users\sofia\Downloads\ExamenTratamientoHabla-Starter-master\Reproductor\bin\Debug\NAudio.xml
+C:\Users\sofia\Downloads\ExamenTratamientoHabla-Starter-master\Reproductor\obj\Debug\Reproductor.csprojAssemblyReference.cache
+C:\Users\sofia\Downloads\ExamenTratamientoHabla-Starter-master\Reproductor\obj\Debug\MainWindow.g.cs
+C:\Users\sofia\Downloads\ExamenTratamientoHabla-Starter-master\Reproductor\obj\Debug\App.g.cs
+C:\Users\sofia\Downloads\ExamenTratamientoHabla-Starter-master\Reproductor\obj\Debug\Reproductor_Content.g.cs
+C:\Users\sofia\Downloads\ExamenTratamientoHabla-Starter-master\Reproductor\obj\Debug\Reproductor_MarkupCompile.cache
+C:\Users\sofia\Downloads\ExamenTratamientoHabla-Starter-master\Reproductor\obj\Debug\Reproductor_MarkupCompile.lref
+C:\Users\sofia\Downloads\ExamenTratamientoHabla-Starter-master\Reproductor\obj\Debug\MainWindow.baml
+C:\Users\sofia\Downloads\ExamenTratamientoHabla-Starter-master\Reproductor\obj\Debug\Reproductor.g.resources
+C:\Users\sofia\Downloads\ExamenTratamientoHabla-Starter-master\Reproductor\obj\Debug\Reproductor.Properties.Resources.resources
+C:\Users\sofia\Downloads\ExamenTratamientoHabla-Starter-master\Reproductor\obj\Debug\Reproductor.csproj.GenerateResource.cache
+C:\Users\sofia\Downloads\ExamenTratamientoHabla-Starter-master\Reproductor\obj\Debug\Reproductor.csproj.CopyComplete
+C:\Users\sofia\Downloads\ExamenTratamientoHabla-Starter-master\Reproductor\obj\Debug\Reproductor.exe
+C:\Users\sofia\Downloads\ExamenTratamientoHabla-Starter-master\Reproductor\obj\Debug\Reproductor.pdb
